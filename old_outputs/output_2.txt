@@ -1,0 +1,37 @@
+Arrival rate λ = 2
+For k = 1: 1.310449
+	Throughput of server A is 1.166040
+	Throughput of server B is 0.832761
+	Throughput of all servers is 1.400210
+For k = 2: 1.623581
+	Throughput of server A is 1.409348
+	Throughput of server B is 0.588768
+	Throughput of all servers is 2.393727
+For k = 3: 2.057010
+	Throughput of server A is 1.552367
+	Throughput of server B is 0.444755
+	Throughput of all servers is 3.490384
+For k = 4: 2.433004
+	Throughput of server A is 1.623187
+	Throughput of server B is 0.372629
+	Throughput of all servers is 4.356041
+For k = 5: 2.920985
+	Throughput of server A is 1.692285
+	Throughput of server B is 0.299332
+	Throughput of all servers is 5.653534
+For k = 6: 3.327453
+	Throughput of server A is 1.727902
+	Throughput of server B is 0.260346
+	Throughput of all servers is 6.636949
+For k = 7: 3.724285
+	Throughput of server A is 1.752749
+	Throughput of server B is 0.225046
+	Throughput of all servers is 7.788418
+For k = 8: 4.251458
+	Throughput of server A is 1.786652
+	Throughput of server B is 0.170280
+	Throughput of all servers is 10.492412
+For k = 9: 4.529143
+	Throughput of server A is 1.801305
+	Throughput of server B is 0.124168
+	Throughput of all servers is 14.506944
